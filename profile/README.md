@@ -1,5 +1,6 @@
 ## WindWard Software
-<img src="https://user-images.githubusercontent.com/80749465/221351857-15d8c38f-13d4-4bba-8fa4-7e19eae76f7f.png" alt="WindWardLogo" style="height:20vh" />
+
+<img width="761" alt="Screenshot 2023-02-25 at 18 32 08" src="https://user-images.githubusercontent.com/80749465/221352136-bb7c5561-5ba1-481a-a3ad-573bc3cd4559.png">
 
 <hr>
 
